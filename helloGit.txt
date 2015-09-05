@@ -7,3 +7,5 @@ i live in montreal.
 I am niraj.
 
 I also live with davinder.
+
+I am studying in cegep. 
